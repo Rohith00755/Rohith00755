@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rohith 👋
 
-<!--
-**Rohith00755/Rohith00755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Electronics and Communication Engineering (2028)
+🏫 KPR Institute of Engineering and Technology (KPRIET)
 
-Here are some ideas to get you started:
+## Interests
+- Embedded Systems
+- IoT Development
+- Machine Learning
+- Automotive Electronics
+- Raspberry Pi
+- ESP32 Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- GestureX Smart Glove
+- Smart Water Purifier Monitoring
+- AI Attendance System
+- Fruit Quality Detection using ML
+
+## Achievements
+- IEEE Project Expo - 3rd Place
+- STEM Innovators Expo Winner
+- SRM TRP Hackathon Finalist
+
+## Connect with Me
+LinkedIn:www.linkedin.com/in/rohith-sathish-971052327
