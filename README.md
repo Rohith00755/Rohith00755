@@ -6,6 +6,7 @@
 ## Interests
 - Embedded Systems
 - IoT Development
+- Edge AI
 - Machine Learning
 - Automotive Electronics
 - Raspberry Pi
@@ -14,8 +15,8 @@
 ## Projects
 - GestureX Smart Glove
 - Smart Water Purifier Monitoring
-- AI Attendance System
-- Fruit Quality Detection using ML
+- AI Attendance System using Edge AI
+- Fruit Quality Detection using ML and Edge AI
 
 ## Achievements
 - IEEE Project Expo - 3rd Place
